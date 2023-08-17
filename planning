@@ -1,0 +1,12 @@
+price estimator for JC
+
+if house washed, what is approximate square footage of house?
+if flat concrete cleaned, what is its approximate square footage?
+if driveway cleaned, how many cars does it fit?
+
+if customer is still interested, grab home address and phone number, and email all info, including above, to JC. 
+
+email via emailJS? seems to require nodeJS, which can apparently be used with react...
+
+
+
